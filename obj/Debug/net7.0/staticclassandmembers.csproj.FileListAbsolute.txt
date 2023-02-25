@@ -1,0 +1,15 @@
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.csproj.AssemblyReference.cache
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.AssemblyInfoInputs.cache
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.AssemblyInfo.cs
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.csproj.CoreCompileInputs.cache
+C:\Pratikler\staticclassandmembers\bin\Debug\net7.0\staticclassandmembers.exe
+C:\Pratikler\staticclassandmembers\bin\Debug\net7.0\staticclassandmembers.deps.json
+C:\Pratikler\staticclassandmembers\bin\Debug\net7.0\staticclassandmembers.runtimeconfig.json
+C:\Pratikler\staticclassandmembers\bin\Debug\net7.0\staticclassandmembers.dll
+C:\Pratikler\staticclassandmembers\bin\Debug\net7.0\staticclassandmembers.pdb
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.dll
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\refint\staticclassandmembers.dll
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.pdb
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\staticclassandmembers.genruntimeconfig.cache
+C:\Pratikler\staticclassandmembers\obj\Debug\net7.0\ref\staticclassandmembers.dll
